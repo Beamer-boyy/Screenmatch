@@ -3,8 +3,8 @@ import com.screenmatch.modelos.Filme;
 import com.screenmatch.modelos.Serie;
 import com.screenmatch.modelos.Titulo;
 
-import coom.screenmatch.calculadora.CalculadoraDeTempo;
-import coom.screenmatch.calculadora.FiltroRecomendacao;
+import com.screenmatch.calculadora.CalculadoraDeTempo;
+import com.screenmatch.calculadora.FiltroRecomendacao;
 
 
 
